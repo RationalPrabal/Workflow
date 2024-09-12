@@ -1,6 +1,6 @@
 # React.js Workflow Builder Application
 
-## Setup Instructions 
+## Front-End Setup Instructions 
 
 ### Run the following commands.
 
@@ -9,6 +9,14 @@
 3. Make an env as per .env.example
 4. npm run dev
 
+## Back-End Setup Instructions 
+
+### Run the following commands.
+
+1. Git clone https://github.com/RationalPrabal/Workflow-backend
+2. npm i
+3. Make an env as per .env.example
+4. npm run dev
 
 Now you are ready to access the website in your local host.
 
